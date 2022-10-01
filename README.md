@@ -1,7 +1,6 @@
 # node-typescript-mongoose
 Projeto Back-end API Rest da Sempt Web desenvolvido utilizando NodeJS, TypeScript, Express, Mongoose, integrando com o banco de dados MongoDB.
 
-
 # semth-server
 Projeto Back-end API Rest da Sempt Web desenvolvido utilizando NodeJS, TypeScript, Express, Mongoose, integrando com o banco de dados MongoDB. 
 
@@ -41,7 +40,7 @@ Contém os arquivos estáticos do projeto, como imagens, PDFs, etc.
 ## Executando o Projeto
 1. Instale o NodeJS (versão 16 ou superior) e o NPM.
 2. Clone o repositório ou faça o download do resposiório do Projeto
-3. Acesse a pasta raiz do projeto (pasta "sempt-server") pelo Prompt de Comando ou Terminal e instale as dependências digitando o seguinte comando:
+3. Acesse a pasta raiz do projeto (pasta "sempt-server") pelo Prompt de Comando ou Terminal e instale as dependências (pasta "node_modules") digitando o seguinte comando:
 ```bash
 npm i
 # ou
